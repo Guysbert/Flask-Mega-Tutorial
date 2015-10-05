@@ -121,4 +121,7 @@ crashlytics-build.properties
 pyvenv.cfg
 pip-selfcheck.json
 
+### Database ###
+app.db
+db_repository
 

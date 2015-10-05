@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Babel==2.0
 Flask==0.10.1
 Flask-Babel==0.9
@@ -19,10 +20,38 @@ coverage==4.0
 decorator==4.0.2
 flipflop==1.0
 itsdangerous==0.24
+=======
+Babel==2.1.1
+blinker==1.4
+decorator==4.0.4
+Flask==0.10.1
+Flask-Babel==0.9
+Flask-Login==0.3.1
+Flask-Mail==0.9.1
+Flask-OpenID==1.2.5
+Flask-SQLAlchemy==2.0
+Flask-WhooshAlchemy==0.56
+Flask-WTF==0.12
+flipflop==1.0
+guess-language==0.2
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+>>>>>>> 1ccb7a37c6a5ab1e17c0e72f1e1470e1450be49d
 pbr==1.8.0
 python-openid==2.2.5
 pytz==2015.6
 six==1.9.0
 speaklater==1.3
+<<<<<<< HEAD
 sqlalchemy-migrate==0.10.0
 sqlparse==0.1.16
+=======
+SQLAlchemy==1.0.8
+sqlalchemy-migrate==0.10.0
+sqlparse==0.1.16
+Tempita==0.5.2
+Werkzeug==0.10.4
+Whoosh==2.7.0
+WTForms==2.0.2
+>>>>>>> 1ccb7a37c6a5ab1e17c0e72f1e1470e1450be49d
